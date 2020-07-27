@@ -17,7 +17,7 @@ This repository contains the Deep Learning Algorithms implemented in a simplifie
 * Implementing Image Augmentation operations like rescaling, horizontal flip on training and testing images 
 * Using Image Data Generator for Pre-processing
 
-### **Recurrent Neural Network Simplified (Google Stock Price Forecasting)**
+### **3. Recurrent Neural Network Simplified (Google Stock Price Forecasting)**
 **Goals of the project -**
 * To understand the basic implemetation of the RNN and LSTM
 * To build the RNN layer by layer and understanding the significance of LSTM and the arguments used
