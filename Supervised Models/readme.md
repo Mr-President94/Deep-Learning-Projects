@@ -1,5 +1,5 @@
 # Deep Learning Projects
-This repository contains the Deep Learning Algorithms implemented in a simplified format
+This folder contains the Supervised Deep Learning Algorithms implemented in a simplified format
 
 ### **1. Artificial Neural Network Simplified (Churn Dataset)**
 **Goals of the project -**
