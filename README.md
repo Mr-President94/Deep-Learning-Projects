@@ -41,8 +41,8 @@ To know more open the folder **Supervised Models**
 * In more simple terms I will be doing Customer Segmentation to identify segments of customers and one of the segments will contain the customers who cheated
 
 **Goals of this project :**
-Understanding the idealogy of Self Organizing Map
-Implementing concepts like - Winning Node, Dimensionality Reduction, Mean Inter-neuron Distance
-To know more open the folder **Unsupervised Models** 
+* Understanding the idealogy of Self Organizing Map
+* Implementing concepts like - Winning Node, Dimensionality Reduction, Mean Inter-neuron Distance
+* To know more open the folder **Unsupervised Models** 
 
 **More Projects Coming SOON**
