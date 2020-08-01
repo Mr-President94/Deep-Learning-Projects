@@ -1,4 +1,4 @@
-# Deep Learning Projects
+# Supervised Deep Learning Projects
 This folder contains the Supervised Deep Learning Algorithms implemented in a simplified format
 
 ### **1. Artificial Neural Network Simplified (Churn Dataset)**
