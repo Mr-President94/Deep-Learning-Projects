@@ -18,6 +18,6 @@ This folder contains Unsupervised Deep Learning Projects in a simplified format
 * Understanding the idealogy of Self Organizing Map
 * Implementing concepts like - Winning Node, Dimensionality Reduction, Mean Inter-neuron Distance 
 * Interpreting outliers in the SOM 
-* nderstanding the need of Normalization
+* Understanding the need of Normalization
 * Interpreting the SOM in detail and making it more interactive by mapping the info from the dataset
 * Inverse mapping, inverse scaling and getting the list of potential fraudsters
