@@ -1,7 +1,7 @@
 # Unsupervised Deep Learning Projects
 This folder contains Unsupervised Deep Learning Projects in a simplified format
 
-## 1. Credit Card Fraud Detection using Self-Organzied Map
+# 1. Credit Card Fraud Detection using Self-Organzied Map
 
 ### Objective :
 * Suppose we are Deep Learning Scientists working at a bank and we are given a datatset regarding th customers of this bank who are applying for an advanced Credit Card
@@ -21,3 +21,25 @@ This folder contains Unsupervised Deep Learning Projects in a simplified format
 * Understanding the need of Normalization
 * Interpreting the SOM in detail and making it more interactive by mapping the info from the dataset
 * Inverse mapping, inverse scaling and getting the list of potential fraudsters
+
+# 2. Movie Recommender System using Boltzmann Machines
+
+### Objective
+* The objective here is to create a Recommender System with a binary output YES/NO to predict whether or not the viewer will like a particular movie
+* This project is sort of a Deep Case Study on RBM which focuses purely upon implementing the theoritical knowledge of a Restricted Boltzmann Machine into Python
+
+### Data Source
+* GroupLens Research has collected and made available rating data sets from the MovieLens web site (http://movielens.org). The data sets were collected over various periods of time, depending on the size of the set. 
+* It has 1 million ratings from 6000 users on 4000 movies. Released in FEB/2003. 
+
+### Why Pytorch?
+* Is has proven more useful and effective than tensorflow when it comes to implementing Boltzmann Machines and Auto Encoders
+* Theano and Tensorflow can be used to implement the same but the framework of Pytorch makes implementation more easier
+* It is more inutuitive, practical and flexible to make any changes in the architecture of your model when it comes to Pytorch
+
+### Goals of this Project :
+* Implementing and knowing the significance of Pytorch and performing Tensor operations
+* To make our own class to implement Restricted Boltzmann Machines
+* Understanding how an RBM works 
+* Understanding the techniques of k-step contrastive divergence, updating the weights, probabilities of hidden and visible nodes, etc
+* Calculating the loss function and interpreting the loops and what happens at the backend of an RBM
