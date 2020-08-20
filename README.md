@@ -45,4 +45,14 @@ To know more open the folder **Supervised Models**
 * Implementing concepts like - Winning Node, Dimensionality Reduction, Mean Inter-neuron Distance
 * To know more open the folder **Unsupervised Models** 
 
+
+**2. Movie Recommender System using Boltzmann Machines**
+
+**Goals of this Project :**
+* Implementing and knowing the significance of Pytorch and performing Tensor operations
+* To make our own class to implement Restricted Boltzmann Machines
+* Understanding how an RBM works 
+* Understanding the techniques of k-step contrastive divergence, updating the weights, probabilities of hidden and visible nodes, etc
+* Calculating the loss function and interpreting the loops and what happens at the backend of an RBM
+
 **More Projects Coming SOON**
